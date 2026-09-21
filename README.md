@@ -1,4 +1,4 @@
-#UPI Transaction-Balance-Dashboard (2024)
+# UPI Transaction-Balance-Dashboard (2024)
 
 ### Dashboard Link : <add your Power BI Service link here>
 
@@ -49,10 +49,10 @@ The report has **2 pages** and **10 common slicers** that work on both pages (sl
 
 # Snapshot of Dashboard
 ## Page 1
-<img width="400" height="230" alt="Image" src="https://github.com/user-attachments/assets/0c673f06-ed96-4eec-8a02-ff472c87c3ff" />
-<img width="400" height="230" alt="Image" src="https://github.com/user-attachments/assets/e1a9d085-0d53-47ac-9319-0be0a56c0e9a" />
-<img width="400" height="230" alt="Image" src="https://github.com/user-attachments/assets/5d8083d5-1240-4fab-959f-6248f1b5f5ce" />
-<img width="400" height="230" alt="Image" src="https://github.com/user-attachments/assets/9fea1932-3f5a-45ed-a6c1-0c74fb072b51" />
+<img width="400" height="230" alt="Image" src="https://github.com/user-attachments/assets/8659ab3a-fb07-44a3-b374-cac5a2bc7102" />
+<img width="400" height="230" alt="Image" src="https://github.com/user-attachments/assets/9adb50dc-55cc-47f2-a1df-fe61af0047b6" />
+<img width="400" height="230" alt="Image" src="https://github.com/user-attachments/assets/e62d37d6-a590-4fde-b45e-42ab36158015" />
+<img width="400" height="230" alt="Image" src="https://github.com/user-attachments/assets/af2581a0-c412-46d0-a173-be7bb5e399f9" />
 
 ## Page 2
 <img width="805" height="462" alt="Image" src="https://github.com/user-attachments/assets/bec99a79-7aa0-451f-aca3-6e2382b2cdc4" />
