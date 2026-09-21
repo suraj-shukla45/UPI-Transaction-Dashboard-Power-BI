@@ -1,4 +1,4 @@
-# UPI Transaction-Balance-Dashboard (2024)
+# UPI Transaction-Dashboard (2024)
 
 ### Dashboard Link : <add your Power BI Service link here>
 
